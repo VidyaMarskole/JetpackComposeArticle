@@ -1,8 +1,5 @@
 # Jetpack Compose Tutorial Article 
 
-## Output 
-![Jetpack Compose Preview](./assets/preview.png)
-
 This repository provides a tutorial for learning **Jetpack Compose**, a modern toolkit for building native Android UI. Compose simplifies and accelerates UI development on Android with less code, powerful tools, and intuitive Kotlin APIs.
 
 ## Overview
@@ -31,3 +28,7 @@ In this tutorial, you will:
 2. Open the project in Android Studio.
 3. Sync the Gradle files.
 4. Run the application on an emulator or connected device.
+
+## Output 
+
+![Screenshot 2025-01-25 115642](https://github.com/user-attachments/assets/da9f3766-f34b-4421-8653-b87c11481264)
